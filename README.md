@@ -44,9 +44,9 @@ This project is licensed under the [insert your chosen license here] License. Se
 ## Acknowledgements:
 - Mention any individuals, organizations, or resources that contributed to the development of the project.
 ## Schematic Diagram 
-![Screenshot 2024-02-20 112501](https://github.com/maybesravan/Bluetooth-Based-Smart-Lock-System-/assets/81691560/124b16fd-4f3c-410a-b9f8-2f0ce7be876b)
-
+![Screenshot 2024-02-20 114955](https://github.com/maybesravan/Bluetooth-Based-Smart-Lock-System-/assets/81691560/da4ed90b-b243-42ce-a4c7-45ee3d8c865a)
 
 For more information, please refer to the documentation or contact sravankumar.20011121@gmail.com
+
 
 
