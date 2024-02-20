@@ -1,7 +1,7 @@
 # Bluetooth-Based-Smart-Lock-System
 
 ## Objective:
-The Bluetooth-based Smart Locking System is a project developed using LPC2148 microcontroller, an LCD display, HC-05 Bluetooth module, EEPROM for data storage, I2C protocol for communication, UART protocol for serial communication, and interrupts for handling password reset manually via keypad. This system provides a secure and convenient way to lock and unlock doors using a smartphone or any device with Bluetooth capability.
+- The Bluetooth-based Smart Locking System is a project developed using LPC2148 microcontroller, an LCD display, HC-05 Bluetooth module, EEPROM for data storage, I2C protocol for communication, UART protocol for serial communication, and interrupts for handling password reset manually via keypad. This system provides a secure and convenient way to lock and unlock doors using a smartphone or any device with Bluetooth capability.
 
 ## Features:
 - Bluetooth connectivity: Allows users to lock and unlock the system wirelessly using their smartphones.
